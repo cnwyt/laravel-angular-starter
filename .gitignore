@@ -3,4 +3,5 @@
 /laravel/vendor
 
 # frontend clinet
-/angular-client/node_modules
+/ng-admin-client/node_modules
+/ng-admin-client/node_modules
